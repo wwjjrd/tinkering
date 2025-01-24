@@ -1,3 +1,3 @@
-Type, Year, Month, Day;
-FWR, 2025, 1, 30;
-Rubbish, 2025, 2, 6
+FWR = {"date":"2025-01-30"};
+Rubbish = {"date":"2025-02-06"}
+
