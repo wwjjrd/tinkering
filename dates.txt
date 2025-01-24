@@ -1,2 +1,2 @@
-{"type":"FWR", "date":"2025-01-30"};
-{"type":"Rubbish", "date":"2025-02-06"}
+{"type": "FWR", "date": "2025-01-30"};
+{"type": "Rubbish", "date": "2025-02-06"}
