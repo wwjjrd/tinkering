@@ -1,5 +1,4 @@
 {
-  "Bins": [
       {
         "bin" : "FWR",
         "date" : "2025-01-30"
@@ -12,5 +11,4 @@
         "bin" : "Garden",
         "date" : "pending"
       },
-    ]
 }
