@@ -1,3 +1,4 @@
+{
 [
       {
         "bin" : "FWR",
@@ -11,4 +12,5 @@
         "bin" : "Garden",
         "date" : "pending"
       },
-]
+] 
+}
