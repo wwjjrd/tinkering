@@ -1,16 +1,13 @@
 {
       "Bins": [
       {
-        "bin" : "FWR",
-        "date" : "2025-01-30"
+        "FWR" : "2025-01-30"
       },
       {
-        "bin" : "Rubbish",
-        "date" : "2025-02-06"
+        "Rubbish" : "2025-02-06"
       },
       {
-        "bin" : "Garden",
-        "date" : "pending"
+        "Garden" : "pending"
       },
       ] 
 }
